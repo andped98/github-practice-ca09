@@ -58,3 +58,5 @@
 |26|Pingchuan Tian   | 6   | Pingchuan-Tian |<https://github.com/Pingchuan-Tian/my_website>   |<https://pingchuan-tian.netlify.app/>        |2020-10-03 
 |27|Cathy-Yuanmeng-Gu | 17 | cathy-gu |https://github.com/cathy-gu/my_website#my_website   |https://cathygu.netlify.app        |2020-10-04
 |28|Azmi Dzulkarnain | 27 | azmidzul | <https://github.com/azmidzul/my_website2.git> | <https://azmisite10.netlify.app/> |2020-10-04 |
+|29|Andrea Pedevilla | 13 | andped98 | <https://github.com/andped98/my_website> | <https://andreapedevilla-portfolio.netlify.app/> |2020-10-04 |
+
