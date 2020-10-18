@@ -98,7 +98,7 @@
 |66|Aljaz Sirocic|1|AljazSirocic|<https://github.com/AljazSirocic/my_website1>|<https://aljaz2021.netlify.app/>|2020-10-09|
 |67|Alexander Kirk|22|AlexanderKKirk|<https://github.com/AlexanderKKirk/my_website>|<https://alexanderkirk.netlify.app>|2020-10-09|
 |68|Lexi Su|28|lexisu98|<https://github.com/lexisu98/my_website>|< https://lexi-su-personal-portfolio.netlify.app>|2020-10-10|
-|69|Andrea Pedevilla|13|andped98|<https://github.com/andped98/my_website>|< https://andreapedevilla-portfolio.netlify.app/>|2020-10-10|
+|69|Andrea Pedevilla|13|andped98|<https://github.com/andped98/my_website>|<https://andreapedevilla-portfolio.netlify.app/>|2020-10-10|
 |70|Alexandros Sklavounos|35|alexsk|https://github.com/alexsk-mfa/my_website2|< https://alex-sklavounos-portfolio-website.netlify.app/>|2020-10-10|
 |71|Aris Georgakopoulos|11|arisgeo96|https://github.com/arisgeo96/my_website|<https://arisgeo.netlify.app>|2020-10-10|
 |72|Ann LEI|21|Yannan-LEI|<https://github.com/Yannan-LEI/my_website>|<https://annlei.netlify.app/>|2020-10-11|
